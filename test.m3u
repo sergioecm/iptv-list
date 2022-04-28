@@ -45,20 +45,12 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7OHMuRl.png"group-title="Canales Mexicanos",Multimedios Monterrey (720p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo=""group-title="Canales Mexicanos",Multipremier (480p)
-http://201.168.205.12:8000/play/a0cp/index.m3u8
-#EXTINF:-1 tvg-id="MVMNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AdP9s9a.png"group-title="Canales Mexicanos",MVM Noticias (Oaxaca) (400p) [Not 24/7]
-https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
 #EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png"group-title="Canales Mexicanos",Noticias Canal 10 (360p) [Not 24/7]
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 tvg-id="OnceInternacional.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/oo/once-mx.png"group-title="Canales Mexicanos",Once Internacional
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="POPTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU"group-title="Canales Mexicanos",POP TV (542p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QuieroTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/k0XbBp8.png"group-title="Canales Mexicanos",Quiero TV (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
-#EXTINF:-1 tvg-id="RCGTV2.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png"group-title="Canales Mexicanos",RCG TV 2 (360p) [Not 24/7]
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV3.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png"group-title="Canales Mexicanos",RCG TV 3 (360p) [Not 24/7]
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1qrh5SC.png"group-title="Canales Mexicanos",RCG TV (1080p)
@@ -71,46 +63,16 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo=""group-title="Canales Mexicanos",TELE SISTEMA CANAL 9 (486p) [Geo-blocked]
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png"group-title="Canales Mexicanos",TeleFórmula
-https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjGgLrA.jpg"group-title="Canales Mexicanos",Telemax (XEWH-TDT) (720p)
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/teleritmo-logo.png"group-title="Canales Mexicanos",Teleritmo (720p) [Geo-blocked]
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iVF17fh.png"group-title="Canales Mexicanos",Televisa Aguascalientes (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg/live
-#EXTINF:-1 tvg-id="TelevisaDelGolfo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/35fsRTS.jpg"group-title="Canales Mexicanos",Televisa Del Golfo
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQ08tNTPiBn44c975S81ftg/live
-#EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gyZCypH.png"group-title="Canales Mexicanos",Televisa Estado (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w
 #EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vp4B0BM.jpg"group-title="Canales Mexicanos",Televisa Guadalajara (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
-#EXTINF:-1 tvg-id="TelevisaGuerrero.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lOAnjFs.png"group-title="Canales Mexicanos",Televisa Guerrero (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w/live
 #EXTINF:-1 tvg-id="TelevisaLaguna.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/L4GDHQm.png"group-title="Canales Mexicanos",Televisa Laguna (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live
 #EXTINF:-1 tvg-id="TelevisaMexicali.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NIEWc2s.jpg"group-title="Canales Mexicanos",Televisa Mexicali (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
-#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ierlYM1.jpg"group-title="Canales Mexicanos",Televisa Monterrey (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
-#EXTINF:-1 tvg-id="TelevisaNewsMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KVc1hqI.png"group-title="Canales Mexicanos",Televisa News Mexico (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
-#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2dqF5S8.jpg"group-title="Canales Mexicanos",Televisa Puebla
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw/live
-#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/47c1AIS.png"group-title="Canales Mexicanos",Televisa Queretaro
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9QNz6VS3gGz55dzxAQtgtA/live
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo=""group-title="Canales Mexicanos",Televisa San Luis Potosí (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
-#EXTINF:-1 tvg-id="TelevisaSinaloa.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nZ9HE94.png"group-title="Canales Mexicanos",Televisa Sinaloa
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ/live
-#EXTINF:-1 tvg-id="TelevisaSonora.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3FjHKAC.jpg"group-title="Canales Mexicanos",Televisa Sonora (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg/live
-#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4hPbfbg.png"group-title="Canales Mexicanos",Televisa Veracruz (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
-#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vsbl0u6.png"group-title="Canales Mexicanos",Televisa Zacatecas (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo=""group-title="Canales Mexicanos",Tlaxcala Televisión (360p) [Not 24/7]
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
 #EXTINF:-1 tvg-id="TVLobo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XZ8GmZW.png"group-title="Canales Mexicanos",TV Lobo (720p) [Not 24/7]
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo=""group-title="Canales Mexicanos",TV Unam (720p)
@@ -129,7 +91,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #*****************************
 #* Canales Mexicano
 #*****************************
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RLmLtpl.png" group-title="Canales Mexicanos", -[COLOR red]Canales Mexicanos[/COLOR]-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="Canales Mexicanos", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -155,24 +116,8 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="Canales Mexicanos", Canal Once IPN | HD
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dFQBOLD.png" group-title="Canales Mexicanos", Canal Once IPN  Int. | HD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpN7K62.png" group-title="Canales Mexicanos", Canal del Congreso | SD
-http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="Canales Mexicanos", Canal 4 | SD
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMgoMeO.png" group-title="Canales Mexicanos", Canal 20 Zacatecas | SD
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="Canales Mexicanos", Capital 21 | SD
 http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="Canales Mexicanos", RCG 2 | SD
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="Canales Mexicanos", 15TV Sabinas | SD
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="Canales Mexicanos", RCG 3 | SD
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
@@ -194,9 +139,6 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2
 
 #EXTINF:-1 tvg-logo="http://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg" group-title="Canales Mexicanos", Azteca Uno
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg" group-title="Canales Mexicanos", Canal 4 Monclova
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rcgespectaculares.com.mx/images/rcg-logo-2014-288.png" group-title="Canales Mexicanos", RCG TV1
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
